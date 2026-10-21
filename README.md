@@ -30,6 +30,12 @@ The project broadcasts a custom Wi-Fi SSID, redirects connected clients to a cap
 * **🔐 OTP Verification Workflow**
   Demonstrates one-time-password verification using a test OTP or a legitimate verification service.
 
+## 📃 **Report**
+For a detailed explanation of the project, its implementation, workflow, and findings, kindly read the project report.
+
+👉 **[Read the Project Report](https://medium.com/@abhiram--ars/building-wi-fi-evil-twin-honeypot-simulation-cd1d4d9be975?sharedUserId=abhiram--ars)**
+
+
 ## 🧰 Technology Stack
 
 * **ESP32** — Wi-Fi access point and embedded system
