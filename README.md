@@ -1,4 +1,7 @@
 # 📡 Wi-Fi Honey-Pot Simulator
+---
+> ### **Disclaimer:** 
+> *This project is strictly for educational and authorized cybersecurity research; any illegal or unauthorized use, including data theft, OTP interception, or privacy violations, is prohibited. Refer to [DISCLAIMER.md](https://github.com/Abhiram-ARS/WiFi_HoneyPot_Simulator/Disclaimer.md) for full legal terms and responsibilities.*
 
 A cybersecurity simulation project that demonstrates how a rogue or honeypot Wi-Fi access point can attract client devices, display a captive portal, collect browser and device metadata, and simulate mobile number verification using an OTP workflow.
 
@@ -8,7 +11,6 @@ The **Wi-Fi Honey-Pot Simulator** is designed for cybersecurity awareness, netwo
 
 The project broadcasts a custom Wi-Fi SSID, redirects connected clients to a captive portal, gathers browser-exposed device information, and presents a mobile number and OTP verification interface.
 
-> **Disclaimer:** This project is intended for authorized security testing, educational demonstrations, and lab environments only. Device information and mobile numbers must be collected with informed consent. OTP verification should use a legitimate test or verification provider.
 
 ## ✨ Features
 
