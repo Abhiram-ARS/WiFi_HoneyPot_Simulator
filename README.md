@@ -57,9 +57,7 @@ For a detailed explanation of the project, its implementation, workflow, and fin
 * Security lab experiments
 * Demonstrations of social-engineering risks associated with public Wi-Fi
 
-## 📄 License
-
-Choose an appropriate open-source license, such as the MIT License, and include the corresponding `LICENSE` file in the repository.
+## 📄 [License](https://github.com/Abhiram-ARS/WiFi_HoneyPot_Simulator/blob/main/LICENSE)
 
 ---
 
